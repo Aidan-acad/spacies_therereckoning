@@ -1,0 +1,43 @@
+2021-05-15 10:46:43.285 - Thread:   1 ->  Log Started
+2021-05-15 10:46:43.285 - Thread:   1 ->  Timezone (local - UTC): 1h
+2021-05-15 10:46:43.285 - Thread:   1 ->  App Version: 01_198_027
+2021-05-15 10:46:43.306 - Thread:   1 ->  Space Engineers DS GUI Started
+2021-05-15 10:46:43.306 - Thread:   1 ->  Is Service DS: True
+2021-05-15 10:46:43.306 - Thread:   1 ->  Service Name: spacies-3-weewooweeewee
+2021-05-15 10:46:46.418 - Thread:   1 ->  Start Pipe Server
+2021-05-15 10:46:46.460 - Thread:   1 ->  MyCampaignManager.Constructor() - START
+2021-05-15 10:46:46.847 - Thread:   1 ->  MyCampaignManager.Constructor() - END
+2021-05-15 10:46:46.927 - Thread:   1 ->  MyDefinitionManager.LoadScenarios() - START
+2021-05-15 10:46:46.933 - Thread:   1 ->     e81c71c392ad854db386c9d131f9142aff57e7fd
+2021-05-15 10:46:47.219 - Thread:   1 ->     Loading scenarios
+2021-05-15 10:46:47.250 - Thread:   1 ->  MyDefinitionManager.LoadScenarios() - END
+2021-05-15 10:46:47.252 - Thread:   9 ->  Loading available saves - START
+2021-05-15 10:46:47.252 - Thread:  10 ->  Loading available saves - START
+2021-05-15 10:46:47.255 - Thread:  10 ->     Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Alien Planet\PC\Sandbox_config.sbc
+2021-05-15 10:46:47.257 - Thread:   9 ->     Loading Sandbox world configuration file C:\ProgramData\SpaceEngineersDedicated\spacies-3-weewooweeewee\Saves\spacieesss\Sandbox_config.sbc
+2021-05-15 10:46:47.274 - Thread:   9 ->     Loading Sandbox world configuration file C:\ProgramData\SpaceEngineersDedicated\spacies-3-weewooweeewee\Saves\woops-we-did-it-again\Sandbox_config.sbc
+2021-05-15 10:46:47.274 - Thread:  10 ->     Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Alien System\XBox\Sandbox_config.sbc
+2021-05-15 10:46:47.277 - Thread:  10 ->     Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Crashed Red Ship\Sandbox_config.sbc
+2021-05-15 10:46:47.278 - Thread:   9 ->  Loading available saves - END
+2021-05-15 10:46:47.279 - Thread:  10 ->     Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Dead Drop Arena\Sandbox_config.sbc
+2021-05-15 10:46:47.285 - Thread:  10 ->     Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Distant Moons\Sandbox_config.sbc
+2021-05-15 10:46:47.287 - Thread:  10 ->     Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Earth Planet\PC\Sandbox_config.sbc
+2021-05-15 10:46:47.290 - Thread:  10 ->     Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Earth Planet\XBox\Sandbox_config.sbc
+2021-05-15 10:46:47.292 - Thread:  10 ->     Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Empty World\Sandbox_config.sbc
+2021-05-15 10:46:47.294 - Thread:  10 ->     Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Green Station\Sandbox_config.sbc
+2021-05-15 10:46:47.299 - Thread:  10 ->     Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Home System\Sandbox_config.sbc
+2021-05-15 10:46:47.301 - Thread:  10 ->     Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Lone Survivor\Sandbox_config.sbc
+2021-05-15 10:46:47.303 - Thread:  10 ->     Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Mars Planet\PC\Sandbox_config.sbc
+2021-05-15 10:46:47.307 - Thread:  10 ->     Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Mars Planet\XBox\Sandbox_config.sbc
+2021-05-15 10:46:47.399 - Thread:  10 ->     Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Moon Base\XBox\Sandbox_config.sbc
+2021-05-15 10:46:47.402 - Thread:  10 ->     Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Red Ship\Sandbox_config.sbc
+2021-05-15 10:46:47.406 - Thread:  10 ->     Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Rival Platforms\Sandbox_config.sbc
+2021-05-15 10:46:47.409 - Thread:  10 ->     Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Star System\Sandbox_config.sbc
+2021-05-15 10:46:47.413 - Thread:  10 ->  Loading available saves - END
+2021-05-15 10:46:49.147 - Thread:   1 ->  Loading Sandbox world configuration file C:\ProgramData\SpaceEngineersDedicated\spacies-3-weewooweeewee\Saves\woops-we-did-it-again\Sandbox_config.sbc
+2021-05-15 13:59:16.612 - Thread:   1 ->  Stop Service
+2021-05-15 14:00:21.537 - Thread:   1 ->  Loading Sandbox world configuration file C:\ProgramData\SpaceEngineersDedicated\spacies-3-weewooweeewee\Saves\woops-we-did-it-again\Sandbox_config.sbc
+2021-05-15 14:00:21.543 - Thread:   1 ->  Saving Sandbox world configuration file C:\ProgramData\SpaceEngineersDedicated\spacies-3-weewooweeewee\Saves\woops-we-did-it-again\Sandbox_config.sbc
+2021-05-15 14:00:21.559 - Thread:   1 ->  Start Service
+2021-05-15 14:00:27.169 - Thread:   1 ->  Start Pipe Server
+2021-05-16 01:44:55.059 - Thread:   1 ->  Stop Service

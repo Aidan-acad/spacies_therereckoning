@@ -1,0 +1,27 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CategoryClasses>
+  
+    <Category xsi:type="MyObjectBuilder_GuiBlockCategoryDefinition">
+      <Id>
+        <TypeId>GuiBlockCategoryDefinition</TypeId>
+        <SubtypeId/>
+      </Id>
+      <DisplayName>Skyblade Propellers</DisplayName>
+      <Name>Skyblade Propellers</Name>
+      <ItemIds>
+        <string>Thrust/HeloThrusterLarge4Blade</string>
+        <string>Thrust/HeloThrusterSmall5Blade</string>
+        <string>Thrust/HeloThrusterLarge5Blade</string>
+        <string>Thrust/HeloThrusterTailRotor5Blade</string>
+        <string>Thrust/HeloThrusterTailRotor4Blade</string>
+        <string>Thrust/HeloThrusterTailRotor2BladeSmaller</string>
+        <string>Thrust/HeloThrusterTailRotor2BladeSmall</string>
+        <string>Thrust/HeloThrusterTailRotor</string>
+        <string>Thrust/PlanePropellerSmall</string>
+        <string>CubeBlock/PlanePropCover</string>
+        <string>Thrust/HeloThrusterMedium4Blade</string>
+      </ItemIds>
+    </Category>
+  </CategoryClasses>
+</Definitions>

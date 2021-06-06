@@ -1,0 +1,132 @@
+2021-05-09 19:09:10.574 - Thread:   1 ->  Log Started
+2021-05-09 19:09:10.574 - Thread:   1 ->  Timezone (local - UTC): 1h
+2021-05-09 19:09:10.574 - Thread:   1 ->  App Version: 01_198_027
+2021-05-09 19:09:10.592 - Thread:   1 ->  Space Engineers DS GUI Started
+2021-05-09 19:09:10.592 - Thread:   1 ->  Is Service DS: True
+2021-05-09 19:09:10.592 - Thread:   1 ->  Service Name: spacies-3-weewooweeewee
+2021-05-09 19:09:10.914 - Thread:   1 ->  Start Pipe Server
+2021-05-09 19:09:10.935 - Thread:   1 ->  MyCampaignManager.Constructor() - START
+2021-05-09 19:09:11.206 - Thread:   1 ->  MyCampaignManager.Constructor() - END
+2021-05-09 19:09:11.268 - Thread:   1 ->  MyDefinitionManager.LoadScenarios() - START
+2021-05-09 19:09:11.273 - Thread:   1 ->     e81c71c392ad854db386c9d131f9142aff57e7fd
+2021-05-09 19:09:11.551 - Thread:   1 ->     Loading scenarios
+2021-05-09 19:09:11.591 - Thread:   1 ->  MyDefinitionManager.LoadScenarios() - END
+2021-05-09 19:09:11.599 - Thread:  10 ->  Loading available saves - START
+2021-05-09 19:09:11.599 - Thread:   9 ->  Loading available saves - START
+2021-05-09 19:09:11.603 - Thread:  10 ->     Loading Sandbox world configuration file C:\ProgramData\SpaceEngineersDedicated\spacies-3-weewooweeewee\Saves\spacieesss\Sandbox_config.sbc
+2021-05-09 19:09:11.603 - Thread:   9 ->     Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Alien Planet\PC\Sandbox_config.sbc
+2021-05-09 19:09:11.638 - Thread:  10 ->  Loading available saves - END
+2021-05-09 19:09:11.642 - Thread:   9 ->     Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Alien System\XBox\Sandbox_config.sbc
+2021-05-09 19:09:11.644 - Thread:   9 ->     Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Crashed Red Ship\Sandbox_config.sbc
+2021-05-09 19:09:11.649 - Thread:   9 ->     Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Dead Drop Arena\Sandbox_config.sbc
+2021-05-09 19:09:11.653 - Thread:   9 ->     Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Distant Moons\Sandbox_config.sbc
+2021-05-09 19:09:11.657 - Thread:   9 ->     Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Earth Planet\PC\Sandbox_config.sbc
+2021-05-09 19:09:11.659 - Thread:   9 ->     Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Earth Planet\XBox\Sandbox_config.sbc
+2021-05-09 19:09:11.661 - Thread:   9 ->     Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Empty World\Sandbox_config.sbc
+2021-05-09 19:09:11.665 - Thread:   9 ->     Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Green Station\Sandbox_config.sbc
+2021-05-09 19:09:11.669 - Thread:   9 ->     Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Home System\Sandbox_config.sbc
+2021-05-09 19:09:11.670 - Thread:   9 ->     Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Lone Survivor\Sandbox_config.sbc
+2021-05-09 19:09:11.674 - Thread:   9 ->     Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Mars Planet\PC\Sandbox_config.sbc
+2021-05-09 19:09:11.677 - Thread:   9 ->     Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Mars Planet\XBox\Sandbox_config.sbc
+2021-05-09 19:09:11.733 - Thread:   1 ->  Loading Sandbox world configuration file C:\ProgramData\SpaceEngineersDedicated\spacies-3-weewooweeewee\Saves\spacieesss\Sandbox_config.sbc
+2021-05-09 19:09:11.908 - Thread:   9 ->     Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Moon Base\XBox\Sandbox_config.sbc
+2021-05-09 19:09:11.912 - Thread:   9 ->     Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Red Ship\Sandbox_config.sbc
+2021-05-09 19:09:11.914 - Thread:   9 ->     Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Rival Platforms\Sandbox_config.sbc
+2021-05-09 19:09:11.919 - Thread:   9 ->     Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Star System\Sandbox_config.sbc
+2021-05-09 19:09:11.921 - Thread:   9 ->  Loading available saves - END
+2021-05-09 19:16:51.046 - Thread:   1 ->  Stop Service
+2021-05-09 19:16:54.146 - Thread:   1 ->  Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Alien Planet\PC\Sandbox_config.sbc
+2021-05-09 19:16:59.579 - Thread:   1 ->  Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Star System\Sandbox_config.sbc
+2021-05-09 19:19:11.307 - Thread:   1 ->  Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Star System\Sandbox_config.sbc
+2021-05-09 19:19:11.321 - Thread:   1 ->  Saving Sandbox world configuration file C:\ProgramData\SpaceEngineersDedicated\spacies-3-weewooweeewee\Saves\woops-we-did-it-again\Sandbox_config.sbc
+2021-05-09 19:19:11.334 - Thread:  10 ->  Loading available saves - START
+2021-05-09 19:19:11.334 - Thread:   9 ->  Loading available saves - START
+2021-05-09 19:19:11.335 - Thread:   9 ->     Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Alien Planet\PC\Sandbox_config.sbc
+2021-05-09 19:19:11.335 - Thread:  10 ->     Loading Sandbox world configuration file C:\ProgramData\SpaceEngineersDedicated\spacies-3-weewooweeewee\Saves\spacieesss\Sandbox_config.sbc
+2021-05-09 19:19:11.337 - Thread:  10 ->     Loading Sandbox world configuration file C:\ProgramData\SpaceEngineersDedicated\spacies-3-weewooweeewee\Saves\woops-we-did-it-again\Sandbox_config.sbc
+2021-05-09 19:19:11.338 - Thread:   9 ->     Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Alien System\XBox\Sandbox_config.sbc
+2021-05-09 19:19:11.342 - Thread:  10 ->  Loading available saves - END
+2021-05-09 19:19:11.342 - Thread:   9 ->     Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Crashed Red Ship\Sandbox_config.sbc
+2021-05-09 19:19:11.344 - Thread:   9 ->     Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Dead Drop Arena\Sandbox_config.sbc
+2021-05-09 19:19:11.347 - Thread:   9 ->     Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Distant Moons\Sandbox_config.sbc
+2021-05-09 19:19:11.349 - Thread:   9 ->     Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Earth Planet\PC\Sandbox_config.sbc
+2021-05-09 19:19:11.351 - Thread:   1 ->  Start Service
+2021-05-09 19:19:11.351 - Thread:   9 ->     Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Earth Planet\XBox\Sandbox_config.sbc
+2021-05-09 19:19:11.352 - Thread:   9 ->     Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Empty World\Sandbox_config.sbc
+2021-05-09 19:19:11.354 - Thread:   9 ->     Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Green Station\Sandbox_config.sbc
+2021-05-09 19:19:11.357 - Thread:   9 ->     Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Home System\Sandbox_config.sbc
+2021-05-09 19:19:11.361 - Thread:   9 ->     Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Lone Survivor\Sandbox_config.sbc
+2021-05-09 19:19:11.363 - Thread:   9 ->     Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Mars Planet\PC\Sandbox_config.sbc
+2021-05-09 19:19:11.365 - Thread:   9 ->     Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Mars Planet\XBox\Sandbox_config.sbc
+2021-05-09 19:19:11.385 - Thread:   9 ->     Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Moon Base\XBox\Sandbox_config.sbc
+2021-05-09 19:19:11.386 - Thread:   9 ->     Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Red Ship\Sandbox_config.sbc
+2021-05-09 19:19:11.388 - Thread:   9 ->     Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Rival Platforms\Sandbox_config.sbc
+2021-05-09 19:19:11.391 - Thread:   9 ->     Loading Sandbox world configuration file G:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Star System\Sandbox_config.sbc
+2021-05-09 19:19:11.394 - Thread:   9 ->  Loading available saves - END
+2021-05-09 19:19:16.323 - Thread:   1 ->  Start Pipe Server
+2021-05-09 19:19:16.335 - Thread:   1 ->  Loading Sandbox world configuration file C:\ProgramData\SpaceEngineersDedicated\spacies-3-weewooweeewee\Saves\woops-we-did-it-again\Sandbox_config.sbc
+2021-05-09 19:24:45.986 - Thread:   1 ->  Stop Service
+2021-05-09 19:24:49.081 - Thread:   1 ->  Loading Sandbox world configuration file C:\ProgramData\SpaceEngineersDedicated\spacies-3-weewooweeewee\Saves\spacieesss\Sandbox_config.sbc
+2021-05-09 19:24:49.938 - Thread:   1 ->  Loading Sandbox world configuration file C:\ProgramData\SpaceEngineersDedicated\spacies-3-weewooweeewee\Saves\woops-we-did-it-again\Sandbox_config.sbc
+2021-05-09 19:25:00.108 - Thread:   1 ->  Loading Sandbox world configuration file C:\ProgramData\SpaceEngineersDedicated\spacies-3-weewooweeewee\Saves\woops-we-did-it-again\Sandbox_config.sbc
+2021-05-09 19:25:00.109 - Thread:   1 ->  Saving Sandbox world configuration file C:\ProgramData\SpaceEngineersDedicated\spacies-3-weewooweeewee\Saves\woops-we-did-it-again\Sandbox_config.sbc
+2021-05-09 19:25:12.901 - Thread:   1 ->  Loading Sandbox world configuration file C:\ProgramData\SpaceEngineersDedicated\spacies-3-weewooweeewee\Saves\woops-we-did-it-again\Sandbox_config.sbc
+2021-05-09 19:25:12.902 - Thread:   1 ->  Saving Sandbox world configuration file C:\ProgramData\SpaceEngineersDedicated\spacies-3-weewooweeewee\Saves\woops-we-did-it-again\Sandbox_config.sbc
+2021-05-09 19:25:12.911 - Thread:   1 ->  Start Service
+2021-05-09 19:25:13.994 - Thread:   1 ->  Start Pipe Server
+2021-05-09 19:26:51.830 - Thread:   1 ->  Stop Service
+2021-05-09 19:27:51.022 - Thread:  32 ->  MySteamWorkshop.GetSubscribedModsBlocking - START
+2021-05-09 19:27:51.549 - Thread:   1 ->  Query successful.
+2021-05-09 19:27:51.552 - Thread:  32 ->  ModIo: Authentication started
+2021-05-09 19:27:52.741 - Thread:  45 ->  ModIo API call
+-- Request:
+Url: https://api.mod.io/v1/external/steamauth?api_key=1fb4489996a5e8ffc6ec1135f9985b5b
+Method: POST
+Parameters:
+HttpHeader: Accept / application/json
+HttpHeader: Content-Type / application/x-www-form-urlencoded
+GetOrPost: appdata / CAEQ0rfOgwwYACBSKoABIdruRH8J2Te+L0wJXScWY31JW23csED8FDkN+6bWcpqzFR3VpRpFWL0hDyCbhkh9+lX9CSslaRC28ej+d1O8V/MCVLJSxY4OmdyJc88mfXPCx5tDvg7VKqAIskdcN7whzcCwN7adhfs2BicxRTg53sgOLrw4h2DtfG1enSu3NU0=
+GetOrPost: date_expires / 1620671272
+
+-- Response:
+Code: OK / OK
+Content: {"code":200,"access_token":"eyJlbmMiOiJBMTI4Q0JDLUhTMjU2IiwiYWxnIjoiUlNBLU9BRVAiLCJjdHkiOiJKV1QiLCJ6aXAiOiJERUYiLCJ4NXQiOiJzR0pJLUJhTmhlTDctUjBMejJFdlhhNlQweGsifQ.GWPaIo0MotkOJTIVuyzaVy0hbgZvVu_vG1F1Vjzvp8yr0C44e4ZuQK5682101NP-KTSYRwxtVvI61kQ0Gk0Nt8VaJIY20zZyRGRD3J5T4F4Dd-1shCtU6Y2YrNvPc4ZnN6-dhzzK-5dsFAU14A8Hw0ukpyXEnpzZpN0yBiFhLJ6xd-6JqWZ7SKB1offcyAxqQ7bpZXNwluSwhCWI8KUH_UYptpZOaAWyKaQu3NGHRkppcUbXnL4B2OJNuhG43b-ncmA3bIu3YY-nF04qosa3YfVudCgjlvmRUNjgIJvbGmXdsfWVb3DGKyRjp9zOu-APE--G1o9tqK_0eAFrsZB_Ww.G3cm4_z19wYqNme0Tl7R-w.IbdNOgHFPMLRp64n1lwKqK7ISJwANagHJTVKZX-7Sec_srWjwCLpvyxavQ4TAGK1uCwKnyYnj4fiXn5QuhfjL_jFdOwEthAGZ3jQCRWfo9DHKrYQ7PuHQD5GFk0Qabv-Srn8y65XL82xonUxbbIohFyO2CcaRLcQkmT_q0z2dtsi6B6cYj5YHe9fi2j2EB9hb6ds_IEuJlmP2j4aNAq2mhkCAJUYZrF8uEgRnZwW_r1f21X6Jh0g4JOFM7q5F4Dh8aBLIAE_szJ5nEnFF5wV4HQwmMaUnGDWbjZJjQLlz4JF3HvlHOuHsc9nys53LjCKNXP7TtYHTzVT2i9wmWmvJG-gCbdGMwAIZkgDea--uhk06YI83i86B7U5wbRUQmjervP8ko993nDYw4rc2QWwKGgvIC1kdc0RlOCWuY7s8CSnqIMLTwPdA14UtdjeLc4h9z5mADA7m32EC6E0XfomIkqDJi8dEKofrbw3O3ee8g5aQmEyakXOkAPNGQ14AGEjZTGpx2YbFdDOVcn9YxNvt3TOoPbv261Ucj4YRrG1O9bRdnKET34iDHBtUpb-VoZmH-iAC4lhgUH3KM3MYkz2b0kY4NyCbVOgRzZcXkrQFWih5rnLxR42x3OxWi0oiegObZnb18KjJbChlmhDxoshbc1LDZtqwXrujoTG52Xubp92l7AGPBQGe0gc0nPqgWqI6OGL3AgVkygr3S9Wxw7N3yfLTjtBes-JtiKWaRwxORCNqpsvIeLNzZyf3w3BE9RX1Xz7b94Q_PQ2HexOAgWOq-Kx2QnpEcchysFfb0osIKe_woOiKYQXvCzVZiqAjyh_j9DCDhE6MjAVLb0gqBegC6NKY1CkNcbv-sTu7rFCyZ7mt2v25Oe3TlE14G4eY8rTxh5ElLfsnQi5yLZpOgNUwwEm-2FPUxO6FRMAojeOEyhK_T7oIVmB0rWNYrOTeUZ-CLo3kvuxQ0KzCYPH53sbRaIN-M3pZWE4ZGIX8zkf_gJol-dBfUgU8riiD4X_cAiu-TgqLz-4K0NbS30uNpQIwNRICtDAbaGnTSnCJM-SCok.-8mpW5C2MdudHVMyId2SwQ","date_expires":1620671272}
+2021-05-09 19:27:53.227 - Thread:  44 ->  ModIo API call
+-- Request:
+Url: https://api.mod.io/v1/me?api_key=1fb4489996a5e8ffc6ec1135f9985b5b
+Method: GET
+Parameters:
+HttpHeader: Accept / application/json
+HttpHeader: Authorization / Bearer eyJlbmMiOiJBMTI4Q0JDLUhTMjU2IiwiYWxnIjoiUlNBLU9BRVAiLCJjdHkiOiJKV1QiLCJ6aXAiOiJERUYiLCJ4NXQiOiJzR0pJLUJhTmhlTDctUjBMejJFdlhhNlQweGsifQ.GWPaIo0MotkOJTIVuyzaVy0hbgZvVu_vG1F1Vjzvp8yr0C44e4ZuQK5682101NP-KTSYRwxtVvI61kQ0Gk0Nt8VaJIY20zZyRGRD3J5T4F4Dd-1shCtU6Y2YrNvPc4ZnN6-dhzzK-5dsFAU14A8Hw0ukpyXEnpzZpN0yBiFhLJ6xd-6JqWZ7SKB1offcyAxqQ7bpZXNwluSwhCWI8KUH_UYptpZOaAWyKaQu3NGHRkppcUbXnL4B2OJNuhG43b-ncmA3bIu3YY-nF04qosa3YfVudCgjlvmRUNjgIJvbGmXdsfWVb3DGKyRjp9zOu-APE--G1o9tqK_0eAFrsZB_Ww.G3cm4_z19wYqNme0Tl7R-w.IbdNOgHFPMLRp64n1lwKqK7ISJwANagHJTVKZX-7Sec_srWjwCLpvyxavQ4TAGK1uCwKnyYnj4fiXn5QuhfjL_jFdOwEthAGZ3jQCRWfo9DHKrYQ7PuHQD5GFk0Qabv-Srn8y65XL82xonUxbbIohFyO2CcaRLcQkmT_q0z2dtsi6B6cYj5YHe9fi2j2EB9hb6ds_IEuJlmP2j4aNAq2mhkCAJUYZrF8uEgRnZwW_r1f21X6Jh0g4JOFM7q5F4Dh8aBLIAE_szJ5nEnFF5wV4HQwmMaUnGDWbjZJjQLlz4JF3HvlHOuHsc9nys53LjCKNXP7TtYHTzVT2i9wmWmvJG-gCbdGMwAIZkgDea--uhk06YI83i86B7U5wbRUQmjervP8ko993nDYw4rc2QWwKGgvIC1kdc0RlOCWuY7s8CSnqIMLTwPdA14UtdjeLc4h9z5mADA7m32EC6E0XfomIkqDJi8dEKofrbw3O3ee8g5aQmEyakXOkAPNGQ14AGEjZTGpx2YbFdDOVcn9YxNvt3TOoPbv261Ucj4YRrG1O9bRdnKET34iDHBtUpb-VoZmH-iAC4lhgUH3KM3MYkz2b0kY4NyCbVOgRzZcXkrQFWih5rnLxR42x3OxWi0oiegObZnb18KjJbChlmhDxoshbc1LDZtqwXrujoTG52Xubp92l7AGPBQGe0gc0nPqgWqI6OGL3AgVkygr3S9Wxw7N3yfLTjtBes-JtiKWaRwxORCNqpsvIeLNzZyf3w3BE9RX1Xz7b94Q_PQ2HexOAgWOq-Kx2QnpEcchysFfb0osIKe_woOiKYQXvCzVZiqAjyh_j9DCDhE6MjAVLb0gqBegC6NKY1CkNcbv-sTu7rFCyZ7mt2v25Oe3TlE14G4eY8rTxh5ElLfsnQi5yLZpOgNUwwEm-2FPUxO6FRMAojeOEyhK_T7oIVmB0rWNYrOTeUZ-CLo3kvuxQ0KzCYPH53sbRaIN-M3pZWE4ZGIX8zkf_gJol-dBfUgU8riiD4X_cAiu-TgqLz-4K0NbS30uNpQIwNRICtDAbaGnTSnCJM-SCok.-8mpW5C2MdudHVMyId2SwQ
+
+-- Response:
+Code: OK / OK
+Content: {"id":4900731,"name_id":"shasocais","username":"Shasocais","date_online":1620411862,"avatar":{"filename":"b9705afec9c907780b6b167f41d839f.jpg","original":"https:\/\/image.modcdn.io\/members\/90ee\/4900731\/b9705afec9c907780b6b167f41d839f.jpg","thumb_50x50":"https:\/\/thumb.modcdn.io\/members\/90ee\/4900731\/crop_50x50\/b9705afec9c907780b6b167f41d839f.jpg","thumb_100x100":"https:\/\/thumb.modcdn.io\/members\/90ee\/4900731\/crop_100x100\/b9705afec9c907780b6b167f41d839f.jpg"},"timezone":"","language":"","profile_url":"https:\/\/mod.io\/members\/shasocais"}
+2021-05-09 19:27:53.703 - Thread:  45 ->  ModIo API call
+-- Request:
+Url: https://api.mod.io/v1/me/ratings?api_key=1fb4489996a5e8ffc6ec1135f9985b5b&_offset=0&_limit=100&game_id=264
+Method: GET
+Parameters:
+HttpHeader: Accept / application/json
+HttpHeader: Authorization / Bearer eyJlbmMiOiJBMTI4Q0JDLUhTMjU2IiwiYWxnIjoiUlNBLU9BRVAiLCJjdHkiOiJKV1QiLCJ6aXAiOiJERUYiLCJ4NXQiOiJzR0pJLUJhTmhlTDctUjBMejJFdlhhNlQweGsifQ.GWPaIo0MotkOJTIVuyzaVy0hbgZvVu_vG1F1Vjzvp8yr0C44e4ZuQK5682101NP-KTSYRwxtVvI61kQ0Gk0Nt8VaJIY20zZyRGRD3J5T4F4Dd-1shCtU6Y2YrNvPc4ZnN6-dhzzK-5dsFAU14A8Hw0ukpyXEnpzZpN0yBiFhLJ6xd-6JqWZ7SKB1offcyAxqQ7bpZXNwluSwhCWI8KUH_UYptpZOaAWyKaQu3NGHRkppcUbXnL4B2OJNuhG43b-ncmA3bIu3YY-nF04qosa3YfVudCgjlvmRUNjgIJvbGmXdsfWVb3DGKyRjp9zOu-APE--G1o9tqK_0eAFrsZB_Ww.G3cm4_z19wYqNme0Tl7R-w.IbdNOgHFPMLRp64n1lwKqK7ISJwANagHJTVKZX-7Sec_srWjwCLpvyxavQ4TAGK1uCwKnyYnj4fiXn5QuhfjL_jFdOwEthAGZ3jQCRWfo9DHKrYQ7PuHQD5GFk0Qabv-Srn8y65XL82xonUxbbIohFyO2CcaRLcQkmT_q0z2dtsi6B6cYj5YHe9fi2j2EB9hb6ds_IEuJlmP2j4aNAq2mhkCAJUYZrF8uEgRnZwW_r1f21X6Jh0g4JOFM7q5F4Dh8aBLIAE_szJ5nEnFF5wV4HQwmMaUnGDWbjZJjQLlz4JF3HvlHOuHsc9nys53LjCKNXP7TtYHTzVT2i9wmWmvJG-gCbdGMwAIZkgDea--uhk06YI83i86B7U5wbRUQmjervP8ko993nDYw4rc2QWwKGgvIC1kdc0RlOCWuY7s8CSnqIMLTwPdA14UtdjeLc4h9z5mADA7m32EC6E0XfomIkqDJi8dEKofrbw3O3ee8g5aQmEyakXOkAPNGQ14AGEjZTGpx2YbFdDOVcn9YxNvt3TOoPbv261Ucj4YRrG1O9bRdnKET34iDHBtUpb-VoZmH-iAC4lhgUH3KM3MYkz2b0kY4NyCbVOgRzZcXkrQFWih5rnLxR42x3OxWi0oiegObZnb18KjJbChlmhDxoshbc1LDZtqwXrujoTG52Xubp92l7AGPBQGe0gc0nPqgWqI6OGL3AgVkygr3S9Wxw7N3yfLTjtBes-JtiKWaRwxORCNqpsvIeLNzZyf3w3BE9RX1Xz7b94Q_PQ2HexOAgWOq-Kx2QnpEcchysFfb0osIKe_woOiKYQXvCzVZiqAjyh_j9DCDhE6MjAVLb0gqBegC6NKY1CkNcbv-sTu7rFCyZ7mt2v25Oe3TlE14G4eY8rTxh5ElLfsnQi5yLZpOgNUwwEm-2FPUxO6FRMAojeOEyhK_T7oIVmB0rWNYrOTeUZ-CLo3kvuxQ0KzCYPH53sbRaIN-M3pZWE4ZGIX8zkf_gJol-dBfUgU8riiD4X_cAiu-TgqLz-4K0NbS30uNpQIwNRICtDAbaGnTSnCJM-SCok.-8mpW5C2MdudHVMyId2SwQ
+
+-- Response:
+Code: OK / OK
+Content: {"data":[],"result_count":0,"result_offset":0,"result_limit":100,"result_total":0}
+2021-05-09 19:27:54.390 - Thread:  44 ->  ModIo API call
+-- Request:
+Url: https://api.mod.io/v1/me/subscribed?api_key=1fb4489996a5e8ffc6ec1135f9985b5b&tags=mod&_sort=rating&_offset=0&_limit=50&game_id=264
+Method: GET
+Parameters:
+HttpHeader: Accept / application/json
+HttpHeader: Authorization / Bearer eyJlbmMiOiJBMTI4Q0JDLUhTMjU2IiwiYWxnIjoiUlNBLU9BRVAiLCJjdHkiOiJKV1QiLCJ6aXAiOiJERUYiLCJ4NXQiOiJzR0pJLUJhTmhlTDctUjBMejJFdlhhNlQweGsifQ.GWPaIo0MotkOJTIVuyzaVy0hbgZvVu_vG1F1Vjzvp8yr0C44e4ZuQK5682101NP-KTSYRwxtVvI61kQ0Gk0Nt8VaJIY20zZyRGRD3J5T4F4Dd-1shCtU6Y2YrNvPc4ZnN6-dhzzK-5dsFAU14A8Hw0ukpyXEnpzZpN0yBiFhLJ6xd-6JqWZ7SKB1offcyAxqQ7bpZXNwluSwhCWI8KUH_UYptpZOaAWyKaQu3NGHRkppcUbXnL4B2OJNuhG43b-ncmA3bIu3YY-nF04qosa3YfVudCgjlvmRUNjgIJvbGmXdsfWVb3DGKyRjp9zOu-APE--G1o9tqK_0eAFrsZB_Ww.G3cm4_z19wYqNme0Tl7R-w.IbdNOgHFPMLRp64n1lwKqK7ISJwANagHJTVKZX-7Sec_srWjwCLpvyxavQ4TAGK1uCwKnyYnj4fiXn5QuhfjL_jFdOwEthAGZ3jQCRWfo9DHKrYQ7PuHQD5GFk0Qabv-Srn8y65XL82xonUxbbIohFyO2CcaRLcQkmT_q0z2dtsi6B6cYj5YHe9fi2j2EB9hb6ds_IEuJlmP2j4aNAq2mhkCAJUYZrF8uEgRnZwW_r1f21X6Jh0g4JOFM7q5F4Dh8aBLIAE_szJ5nEnFF5wV4HQwmMaUnGDWbjZJjQLlz4JF3HvlHOuHsc9nys53LjCKNXP7TtYHTzVT2i9wmWmvJG-gCbdGMwAIZkgDea--uhk06YI83i86B7U5wbRUQmjervP8ko993nDYw4rc2QWwKGgvIC1kdc0RlOCWuY7s8CSnqIMLTwPdA14UtdjeLc4h9z5mADA7m32EC6E0XfomIkqDJi8dEKofrbw3O3ee8g5aQmEyakXOkAPNGQ14AGEjZTGpx2YbFdDOVcn9YxNvt3TOoPbv261Ucj4YRrG1O9bRdnKET34iDHBtUpb-VoZmH-iAC4lhgUH3KM3MYkz2b0kY4NyCbVOgRzZcXkrQFWih5rnLxR42x3OxWi0oiegObZnb18KjJbChlmhDxoshbc1LDZtqwXrujoTG52Xubp92l7AGPBQGe0gc0nPqgWqI6OGL3AgVkygr3S9Wxw7N3yfLTjtBes-JtiKWaRwxORCNqpsvIeLNzZyf3w3BE9RX1Xz7b94Q_PQ2HexOAgWOq-Kx2QnpEcchysFfb0osIKe_woOiKYQXvCzVZiqAjyh_j9DCDhE6MjAVLb0gqBegC6NKY1CkNcbv-sTu7rFCyZ7mt2v25Oe3TlE14G4eY8rTxh5ElLfsnQi5yLZpOgNUwwEm-2FPUxO6FRMAojeOEyhK_T7oIVmB0rWNYrOTeUZ-CLo3kvuxQ0KzCYPH53sbRaIN-M3pZWE4ZGIX8zkf_gJol-dBfUgU8riiD4X_cAiu-TgqLz-4K0NbS30uNpQIwNRICtDAbaGnTSnCJM-SCok.-8mpW5C2MdudHVMyId2SwQ
+
+-- Response:
+Code: OK / OK
+Content: {"data":[],"result_count":0,"result_offset":0,"result_limit":50,"result_total":0}
+2021-05-09 19:27:54.393 - Thread:   1 ->  Query successful.
+2021-05-09 19:27:54.393 - Thread:  32 ->  MySteamWorkshop.GetSubscribedModsBlocking - END
+2021-05-09 19:28:49.194 - Thread:   1 ->  Loading Sandbox world configuration file C:\ProgramData\SpaceEngineersDedicated\spacies-3-weewooweeewee\Saves\woops-we-did-it-again\Sandbox_config.sbc
+2021-05-09 19:28:49.198 - Thread:   1 ->  Saving Sandbox world configuration file C:\ProgramData\SpaceEngineersDedicated\spacies-3-weewooweeewee\Saves\woops-we-did-it-again\Sandbox_config.sbc
+2021-05-09 19:28:49.209 - Thread:   1 ->  Start Service
+2021-05-09 19:28:54.440 - Thread:   1 ->  Start Pipe Server
